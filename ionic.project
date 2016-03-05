@@ -1,0 +1,12 @@
+{
+  "name": "tedrssapp",
+  "app_id": "d72764e2",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}
